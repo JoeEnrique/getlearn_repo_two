@@ -1,0 +1,12 @@
+date_box = document.getElementById("box");
+date_box.style.width = "300px";
+date_box.style.height = "200px";
+date_box.style.margin = "20px auto";
+date_box.style.padding = "18px";
+date_box.style.backgroundColor = "cyan";
+date_box.style.fontFamily = "Arial";
+date_box.style.fontSize = "28px";
+date_box.style.color = "Navy";
+date_box.style.display = "flex";
+date_box.style.alignItems = "Center";
+date_box.style.justifyContent = "Center";
